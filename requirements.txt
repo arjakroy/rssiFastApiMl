@@ -1,4 +1,3 @@
 fastapi[all]
 pandas
-pickle
 scikit-learn
